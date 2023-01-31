@@ -1,0 +1,16 @@
+<!DOCTYPE htmL>
+<hmtl lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <title>KOMALPREET KAUR DHOT</title>
+    </head>
+
+    <body>
+        <header>
+            <h1>KOMALPREET KAUR DHOT</h1>
+        </header>
+        <main>
+            <article>
+                <h2>about me</h2>
+                <p>
+                   Myself <em>komalpreet kaur dhot</em>. I am international student from India and i am studying the <b> interactive media design</b> at the <abbr title="Algonquin college"> CEO</abbr> in ottawa. I want to become web developer in the future and start my own business
